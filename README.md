@@ -6,6 +6,8 @@ The Repository Pattern is a software design pattern commonly used in object-orie
  Products(get-all,get by id , create , update , delete , products by user type)
 # installation
 Go to CLI and run below commands:
-'https://github.com/Raghad-lababidi/bandtech_task.git'
-'cd bandtech_task'
+``
+https://github.com/Raghad-lababidi/bandtech_task.git
+cd bandtech_task
+``
 
